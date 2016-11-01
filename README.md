@@ -28,7 +28,7 @@ Jss is a general is a complementary library used to execute CSS code in a more p
 
 </style>
 
-<div class=" @class padding-top(50px) margin(0 auto) font-size(+=20) ">/div>
+<div class=" @class padding-top(50px) margin(0 auto) font-size(+=20) ">...</div>
 
 ```
 

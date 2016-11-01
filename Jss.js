@@ -1,4 +1,5 @@
 $(document).ready(Jss = function() {
+    
     var classArray = [];
     var variableArray = [];
     var styleTag = document.getElementsByTagName("style");
@@ -50,4 +51,5 @@ $(document).ready(Jss = function() {
             e.style[styler] = parameter;
         }
     });
+    
 });
