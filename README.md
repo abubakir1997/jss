@@ -34,10 +34,10 @@ Jss is a general is a complementary library used to execute CSS code in a more p
 
 ## Installation
 
-Download the ** Jss.js and Jquery.js ** file then include it into your project. Make sure to load the file at the end of your document. 
+Download the **Jss.js and Jquery.js** file then include it into your project. Make sure to load the file at the end of your document. 
 
 ```
 <script type="text/javascript" src="jquery.js"></script>
-<script type="text/javascript" src="/path/to/folder/Jss.js"></script>
+<script type="text/javascript" src="/path/to/folder/jss.js"></script>
 
 ```
