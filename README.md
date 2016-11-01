@@ -38,6 +38,6 @@ Download the **Jss.js and Jquery.js** file then include it into your project. Ma
 
 ```
 <script type="text/javascript" src="jquery.js"></script>
-<script type="text/javascript" src="/path/to/folder/jss.js"></script>
+<script type="text/javascript" src="/path/to/folder/Jss.js"></script>
 
 ```
