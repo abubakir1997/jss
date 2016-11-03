@@ -1,6 +1,6 @@
 ## About
 
-Jss is a general is a complementary library used to execute CSS code in a more productive easier way without taking from the speed provided by css, opposite to what other options such as Sass and Less do. It is a growing idea and is in its beginning stage.
+Jss is a general complementary library used to execute CSS code in a more productive easier way without taking from the speed provided by native CSS, opposite to what other options such as Sass and Less do. It is a growing idea and is in its beginning beta stage.
 
 ## Functions
 
